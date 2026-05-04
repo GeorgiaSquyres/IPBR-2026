@@ -40,4 +40,4 @@ At the end of the course, you will be invited on site at Caltech for a half-day 
 Course Website: https://georgiasquyres.github.io/IPBR-2026/ 
 The course website is updated weekly with lecture materials (requires a Google login) and contains a copy of the syllabus and other course documentation.
 
-Instructor Contact: Georgia Squyres, squyres@caltech.edu 
+For further questions, contact Georgia Squyres: see the Instructor section on the Staff page for contact information

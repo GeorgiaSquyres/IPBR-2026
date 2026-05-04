@@ -1,7 +1,7 @@
 ---
 name: Georgia Squyres
 role: Instructor
-email: squyres [at] caltech.edu
+email: squyres@caltech.edu
 photo: georgiasquyres.jpg
 ---
 
