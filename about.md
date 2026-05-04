@@ -16,18 +16,28 @@ description: >-
 
 ---
 
-## About
+## Course objectives 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Introduction to Programming for Biological Research (IPBR) will teach you the basic principles of computer programming and how to use programming for modern biology research. We assume no prior knowledge of computer programming and begin from the fundamentals of algorithm design. By the end of the course, you will be familiar with the basics of computer programming in Python, understand the roles of computer science in biology, and be better prepared to employ computational methods in your own research. 
 
-## Lecture
+## Course format
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+The course meets Mondays and Wednesdays from 6-7:30 PM. You can attend over Zoom or in person on the Caltech campus (pending sufficient interest). If you attend in person, please bring your laptop for in-class exercises. 
 
-## Resources
+The first two weeks of the course are a short Python bootcamp where you will learn the basics of Python coding and syntax. Afterwards, the remaining lectures cover programming topics in biological research. Independent project workshop sessions are your opportunity to work on your coding projects in groups and get help from your classmates and mentors.
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+### Practice problems
+During the first two weeks of the course, short sets of practice problems will be posted at the end of lecture each Wednesday, with the answers posted the following Monday. These practice problems are not graded! They are designed to provide extra practice with Python so you can familiarize yourself with the syntax and art of coding before the start of your independent projects. If you need more help with these problems, you can go through them in your first mentor meeting on June 15. 
 
-## Assignments
+### Student projects
+After the bootcamp ends, you will separate into groups to begin working on group projects. Your group can choose from the sample projects or propose your own project with the guidance of your mentor. Each Monday, you will meet with your group members and mentor to make progress in your project, leading to a final presentation. 
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+### Symposium
+At the end of the course, you will be invited on site at Caltech for a half-day of events (remote attendance is also available). You will each give a short presentation on your own research projects, and you will be awarded a certificate of completion for your participation in the course. We will also feature a panel discussion from current computational biology researchers about their research and careers. 
+
+## Contact information
+
+Course Website: https://georgiasquyres.github.io/IPBR-2026/ 
+The course website is updated weekly with lecture materials (requires a Google login) and contains a copy of the syllabus and other course documentation.
+
+Instructor Contact: Georgia Squyres, squyres@caltech.edu 
