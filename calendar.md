@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Calendar
-description: Course calendar
+description: Listing of course modules and topics.
 ---
 
-# Weekly course calendar
+# Calendar
 
-You can attend classes on Zoom or in-person on the Caltech campus (pending sufficient interest). If you attend in person, please bring a laptop with you for in-class exercises.  
-
-{% for schedule in site.schedules %}
-{{ schedule }}
+{% for module in site.modules %}
+{{ module }}
 {% endfor %}
