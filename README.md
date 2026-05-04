@@ -1,39 +1,43 @@
 ---
 layout: home
-title: Just the Class
+title: IPBR
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: IPBR
 ---
 
-# Just the Class
+# IPBR: Introduction to Programming for Biological Research 
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Are you a biology student? Do you want to learn how programming works for biology research, but you aren't sure where to start? 
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+Introduction to Programming for Biological Research (IPBR) is a **free summer programming course** designed for biology research students. In this course you will: 
+  1. **Learn basic computer programming in Python** from the introductory level- no previous experience required! 
+  2. **Develop your own bio coding project** to support your current or future biology research projects
+  3. **Learn about careers in computational biology** from working researchers who use programming for biological discovery
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+Follow the navigation links to see 
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+# Registration and Course Schedule
 
-## Getting Started
+Click here or click "registration" in the navigation bar to sign up! 
 
-Getting started with Just the Class is simple.
+Course dates are **June 8 - July 22** 2026
+We will meet twice a week: **Monday and Wednesday, 5:30-7 PM**
+Attend either by Zoom, or in person on the Caltech campus (pending sufficient interest)
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+IPBR is **free and open** to current biology students or recent graduates. We especially encourage you to join us if you are currently engaged in biology research, or hoping to start soon. 
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+**Topics covered:** See our syllabus for more information. 
 
-### Local development environment
+**Prerequisites:** The only prerequisite course is introductory biology.
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+**Programming experience:** We do not expect any previous programming experience! If you have some introductory programming (a bootcamp, etc.) and want to know how to apply those tools to biology, you are also welcome. 
+Still not sure whether the course is right for you? Contact us and we can help! 
+
+# About IPBR
+
+IPBR was developed by graduate students at Harvard University, and is now in its fourth year. Our goal is to empower the next generation of biological researchers to use programming methods in their work. The future of biological research is interdisciplinary, and we want you to participate! By the end of the course, you will know the basics of programming in Python and understand how programming is used in biological research. You will also develop your own coding project that you can use in your research! 
+
+The course is being offered in Pasadena for the first time, sponsored by the L'Oréal USA For Women In Science program. 
