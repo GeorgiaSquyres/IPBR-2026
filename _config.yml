@@ -30,6 +30,8 @@ permalink: pretty
 aux_links:
   L'Oréal FWIS USA:
     - 'https://www.loreal.com/en/usa/pages/group/fwis/'
+  Contact us:
+    - 'mailto:squyres@caltech.edu?subject=IPBR-2026'
 footer_content:
 
 # Collections for website data
