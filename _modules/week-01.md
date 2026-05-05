@@ -1,23 +1,24 @@
 ---
-title: Introduction to Java
+title: Python Bootcamp
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Mon June 1
+: **Bootcamp**{: .label .label-blue } What is coding?
+: Course overview
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Wed June 3
+: **Bootcamp**{: .label .label-blue } Intro to Python 1
+: _Practice problems 1 posted_
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Mon June 8
+: **Bootcamp**{: .label .label-blue } Intro to Python 2
+: _Practice problems 1 solutions posted_
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+Wed June 10 
+: **Bootcamp**{: .label .label-blue } Data analysis
+: _Practice problems 2 posted_
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+
+
+
+

@@ -17,9 +17,9 @@ Introduction to Programming for Biological Research (IPBR) is a **free summer pr
   2. **Develop your own bio coding project** to support your current or future biology research projects
   3. **Learn about careers in computational biology** from working researchers who use programming for biological discovery
 
-# Registration and Course Schedule
+## Registration and Course Schedule
 
-[Click here to register!](https://forms.gle/BbpREHMBtyQfF1DdA)
+## [Click here to register!](https://forms.gle/BbpREHMBtyQfF1DdA)
 
 Course dates are **June 8 - July 22** 2026
 We will meet twice a week: **Monday and Wednesday, 5:30-7 PM**
@@ -34,7 +34,7 @@ IPBR is **free and open** to current biology students or recent graduates. We es
 **Programming experience:** We do not expect any previous programming experience! If you have some introductory programming (a bootcamp, etc.) and want to know how to apply those tools to biology, you are also welcome. 
 Still not sure whether the course is right for you? Contact us and we can help! 
 
-# About IPBR
+## About IPBR
 
 IPBR was developed by graduate students at Harvard University. Our goal is to empower the next generation of biological researchers to use programming methods in their work. The future of biological research is interdisciplinary, and we want you to participate! By the end of the course, you will know the basics of programming in Python and understand how programming is used in biological research. You will also develop your own coding project that you can use in your research! 
 

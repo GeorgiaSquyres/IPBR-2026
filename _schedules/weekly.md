@@ -12,14 +12,14 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Bootcamp (week 1-2) or Independent Projects (week 3+)
+      - name: Class meets
         start: 6:00 PM
         end: 7:30 PM
         location: Caltech or Zoom
   - name: Tuesday
   - name: Wednesday
     events:
-      - name: Bootcamp (week 1-2) or Independent Projects (week 3+)
+      - name: Class meets
         start: 6:00 PM
         end: 7:30 PM
         location: Caltech or Zoom

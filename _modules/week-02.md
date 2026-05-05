@@ -1,23 +1,41 @@
 ---
-title: Basic Data Structures
+title: Independent projects and topic lectures
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Mon June 15
+: **Lab**{: .label .label-green } Independent projects
+  : Design, initial coding
+: _Practice problems 2 solutions posted_
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Wed June 17
+: **Lecture**{: .label .label-purple } Project management with Git
+  : _Guest lecture_
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Mon June 22
+: **Lab**{: .label .label-green } Independent projects
+  : Coding day
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+Wed June 24
+: **Lecture**{: .label .label-purple } Simulations and modeling
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Mon June 29
+: **Lab**{: .label .label-green } Independent projects
+  : Coding day
+
+Wed July 1
+: **Lecture**{: .label .label-purple } AI in biology
+  : _Guest lecture_
+
+Mon July 6
+: **Lab**{: .label .label-green } Independent projects
+  : Finalize and document
+
+Wed July 8
+: **Lecture**{: .label .label-purple } Sequence alignment
+
+Mon July 13
+: **Lab**{: .label .label-green } Independent projects
+  : Prepare presentations
+
+Wed July 15
+: **Lecture**{: .label .label-purple } Image processing
