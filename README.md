@@ -22,7 +22,7 @@ Introduction to Programming for Biological Research (IPBR) is a **free summer pr
 ## [Click here to register!](https://forms.gle/BbpREHMBtyQfF1DdA)
 
 Course dates are **June 8 - July 22** 2026
-We will meet twice a week: **Monday and Wednesday, 5:30-7 PM**
+We will meet twice a week: **Monday and Wednesday, 6-7:30 PM**
 Attend either by Zoom, or in person on the Caltech campus (pending sufficient interest)
 
 IPBR is **free and open** to current biology students or recent graduates. We especially encourage you to join us if you are currently engaged in biology research, or hoping to start soon. 
