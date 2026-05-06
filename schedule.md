@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Calendar
-description: Course calendar
+title: Schedule
+description: Course schedule
 ---
 
-# Weekly course calendar
+# Weekly course schedule
 
-Course dates are June 1 - July 15
+Course dates are June 1 - July 15, 2026
 
 You can attend classes on Zoom or in-person on the Caltech campus (pending sufficient interest). If you attend in person, please bring a laptop with you for in-class exercises. 
 
