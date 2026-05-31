@@ -22,7 +22,7 @@ Introduction to Programming for Biological Research (IPBR) will teach you the ba
 
 ## Course format
 
-The course meets Mondays and Wednesdays from 6-7:30 PM. You can attend over Zoom or in person on the Caltech campus (pending sufficient interest). If you attend in person, please bring your laptop for in-class exercises. 
+The course meets Mondays and Wednesdays from 6-7:30 PM. You can attend over Zoom or in person on the Caltech campus (152 Braun Labs). If you attend in person, please bring your laptop for in-class exercises. 
 
 The first two weeks of the course are a short Python bootcamp where you will learn the basics of Python coding and syntax. Afterwards, the remaining lectures cover programming topics in biological research. Independent project workshop sessions are your opportunity to work on your coding projects in groups and get help from your classmates and mentors.
 
