@@ -33,7 +33,7 @@ During the first two weeks of the course, short sets of practice problems will b
 After the bootcamp ends, you will separate into groups to begin working on group projects. Your group can choose from the sample projects or propose your own project with the guidance of your mentor. Each Monday, you will meet with your group members and mentor to make progress in your project, leading to a final presentation. 
 
 ### Symposium
-At the end of the course, you will be invited on site at Caltech for a half-day of events (remote attendance is also available). You will each give a short presentation on your own research projects, and we will also feature a panel discussion from current computational biology researchers about their research and careers. 
+At the end of the course on July 18, you will be invited on site at Caltech for a half-day of events (remote attendance is also available). You will each give a short presentation on your own research projects, and we will also feature a panel discussion from current computational biology researchers about their research and careers. 
 
 ## Contact information
 
