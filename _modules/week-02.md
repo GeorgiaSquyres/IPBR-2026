@@ -16,7 +16,8 @@ Mon June 22
   : Coding day
 
 Wed June 24
-: **Lecture**{: .label .label-purple } Simulations and modeling
+: **Lecture**{: .label .label-purple } Sequence alignment
+  : _Guest lecture_
 
 Mon June 29
 : **Lab**{: .label .label-green } Independent projects
@@ -31,7 +32,7 @@ Mon July 6
   : Finalize and document
 
 Wed July 8
-: **Lecture**{: .label .label-purple } Sequence alignment
+: **Lecture**{: .label .label-purple } Simulations and modeling
 
 Mon July 13
 : **Lab**{: .label .label-green } Independent projects
