@@ -2,5 +2,5 @@
 title: IPBR symposium
 ---
 
-Sat July 18 or Sun July 19
+Sat July 18
 : **Symposium**{: .label .label-yellow } Final presentations
