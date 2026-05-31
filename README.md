@@ -10,8 +10,6 @@ seo:
 
 # IPBR: Introduction to Programming for Biological Research 
 
-## [Click here to register!](https://forms.gle/BbpREHMBtyQfF1DdA)
-
 Are you a biology student? Do you want to learn how programming works for biology research, but you aren't sure where to start? 
 
 Introduction to Programming for Biological Research (IPBR) is a **free summer programming course** designed for biology research students. In this course you will: 
@@ -19,7 +17,7 @@ Introduction to Programming for Biological Research (IPBR) is a **free summer pr
   2. **Develop your own bio coding project** to support your current or future biology research projects
   3. **Learn about careers in computational biology** from working researchers who use programming for biological discovery
 
-## Registration and Course Schedule
+## Course Schedule
 
 Course dates are **June 1 - July 15** 2026, plus a concluding symposium on **July 18 or 19**
 We will meet twice a week: **Monday and Wednesday, 6-7:30 PM**
