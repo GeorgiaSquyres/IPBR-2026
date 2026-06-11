@@ -24,7 +24,7 @@ Mon June 29
   : Coding day
 
 Wed July 1
-: **Lecture**{: .label .label-purple } AI in biology
+: **Lecture**{: .label .label-purple } Image processing
   : _Guest lecture_
 
 Mon July 6
@@ -39,4 +39,4 @@ Mon July 13
   : Prepare presentations
 
 Wed July 15
-: **Lecture**{: .label .label-purple } Image processing
+: **Lecture**{: .label .label-purple } AI in biology
